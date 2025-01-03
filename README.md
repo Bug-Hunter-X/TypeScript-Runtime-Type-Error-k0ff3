@@ -1,0 +1,3 @@
+# TypeScript Runtime Type Error
+
+This repository demonstrates a common runtime type error in TypeScript that can occur when functions are not thoroughly checked for correct parameter types. The `add` function is defined to accept two numbers and return their sum, but a string is passed as an argument, causing a runtime error. This highlights the need for runtime type checks in addition to the compile-time checks provided by TypeScript. The solution demonstrates how to check parameter types and handle them properly. 
